@@ -67,3 +67,8 @@ Ctrl+O aç · Ctrl+S kaydet · Ctrl+Shift+S farklı kaydet · Ctrl+Z / Ctrl+Y ge
 Del sil · Ctrl+= / Ctrl+- genişlet/daralt · F5 yeniden algıla · Ctrl+I görsel ekle ·
 Ctrl+Shift+V video · Ctrl+0 sığdır · Ctrl+1 %100 · F1 yardım ·
 (eklerken) sürükle konumlandır, Ctrl+tekerlek boyutlandır, Enter uygula, Esc iptal.
+
+
+## Lisans
+
+[MIT](LICENSE)
